@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/data/2015weather.txt" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/2015年灵山景区旅游人数统计汇总表.xlsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/2018weather.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/data/2018年灵山景区旅游人数统计汇总表.xlsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/utils/holidayOf2018.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/utils/reader.py" charset="UTF-8" />
+  </component>
+</project>
